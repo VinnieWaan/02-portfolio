@@ -28,7 +28,7 @@ Lessons Learned:
 
 ## Usage
 
-Launch live site at [https://vinniewaan.github.io/code-refractor-main/](https://vinniewaan.github.io/code-refractor-main/) 
+Launch live site at [https://vinniewaan.github.io/02-portfolio/](https://vinniewaan.github.io/02-portfolio/) 
 
 ![Home Page Screenshot](assets/Protfolio_homepage.png)
 

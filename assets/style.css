@@ -112,6 +112,16 @@ footer {
     gap: 5px;
     justify-content: space-around;
   }
+
+  .flex-wrap a:hover {
+    text-decoration: underline;
+    color: lightsalmon
+  }
+
+  .box:hover{
+    border: 8px solid rgb(205, 45, 45);
+  }
+
   
   /* USED MOBILE-FIRST APPROACH */
   @media screen and (min-width: 500px) {
@@ -173,7 +183,7 @@ footer {
     }
     
     .larger-box {
-        flex-basis: 286px;
+        flex-basis: 294px;
     }
 
 }
