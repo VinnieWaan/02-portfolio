@@ -22,6 +22,7 @@ Lessons Learned:
 - Better understanding of responsiveness and flex-boxes
 - Added photo and resized
 - Added links to Github, previous project, and sections on the page.
+- Made the box bigger in lieu of application image
 - Used the git commands to save and push to remote repo
 - Deployed the application (See Usage)
 - Commented on html and CSS files
