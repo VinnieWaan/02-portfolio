@@ -4,6 +4,7 @@
 
 - [Description](#description)
 - [Usage](#usage)
+- [Wireframe](#wireframe)
 - [Credits](#credits)
 - [Badges](#badges)
 
@@ -31,7 +32,11 @@ Lessons Learned:
 
 Launch live site at [https://vinniewaan.github.io/02-portfolio/](https://vinniewaan.github.io/02-portfolio/) 
 
-![Home Page Screenshot](assets/Protfolio_homepage.png)
+![Home Page Screenshot](assets/Portfolio_homepage.png)
+
+## Wireframe
+
+![Wireframe](assets/Portfolio_wireframe.png)
 
 ## Credits
 
